@@ -37,5 +37,3 @@ I enjoy bridging the gap between low-level hardware and high-level logic, whethe
 
 * **Email:** [maanjain2608@gmail.com](mailto:maanjain2608@gmail.com)
 * **Location:** Pune / Raipur, India
-
-Would you like me to tailor a specific "Pinned Repositories" section based on your most recent code uploads?
