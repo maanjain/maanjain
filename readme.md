@@ -1,6 +1,6 @@
 ## Hi there, I'm Maan Dhirendra Jain 👋
 
-I am an **Embedded Systems and VLSI enthusiast** with a deep interest in building intelligent edge devices and hardware-software co-design. Currently, I am honing my expertise in high-performance embedded design at **C-DAC Pune**.
+I am an **Embedded Systems ** with a deep interest in building intelligent edge devices and hardware-software co-design. Currently, I am honing my expertise in high-performance embedded design at **C-DAC Pune**.
 
 I enjoy bridging the gap between low-level hardware and high-level logic, whether it's optimizing RTOS tasks for real-time responsiveness or synthesizing nanomaterials for next-gen sensors.
 
